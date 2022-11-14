@@ -46,20 +46,3 @@ The comparison between our method and current SOTA methods is shown as below,
 
 <img src=".\images\results.png" alt="image-20220405153110367" style="zoom: 200%;" />
 
-## Ref
-
-Link to the pre-printed paper: https://arxiv.org/abs/2205.04908
-
-Author email: xuyimin0926@gmail.com
-
-# Citation
-
-```latex
-@article{xu2022shadow,
-  title={Shadow-Aware Dynamic Convolution for Shadow Removal},
-  author={Xu, Yimin and Lin, Mingbao and Yang, Hong and Li, Ke and Shen, Yunhang and Chao, Fei and Ji, Rongrong},
-  journal={arXiv preprint arXiv:2205.04908},
-  year={2022}
-}
-```
-
